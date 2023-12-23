@@ -1,0 +1,8 @@
+/node_modules
+/dist
+/mongo
+/postgres
+/logs
+
+.env
+#logs
